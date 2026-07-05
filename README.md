@@ -20,3 +20,7 @@ L'interfaccia Swagger è disponibile al seguente indirizzo:
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
+
+## Documentazione
+
+- [Task 1 - Standardizzazione delle Risposte](docs/task1-standardizzazione-risposte.md)
