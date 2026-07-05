@@ -36,7 +36,7 @@ public class GlobalExceptionHandler {
 
         return ResponseEntity.status(ex.getStatusCode()).body(APIResponse.fail(errors));
     }
-    
+
     @ExceptionHandler(Exception.class)
     public ResponseEntity<APIResponse<Void>> handleGeneric(Exception ex) {
 
