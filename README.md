@@ -33,9 +33,9 @@ Grafana viene configurato automaticamente all'avvio (datasource Prometheus e ale
 Documentazione
 Relazioni tecniche relative alle task svolte per l'esame UF13:
 
-* [Task 1 - Standardizzazione delle Risposte e Centralizzazione degli Errori](docs/task1-standardizzazione-risposte.md)
-* [Task 2 - Containerizzazione Multi-Stage e Isolamento dei Profili](docs/task2-containerizzazione-profili.md)
-* [Task 3 - Monitoraggio Proattivo e Sistemi di Alerting](docs/task3-monitoraggio-alerting.md)
+* [Task 1 - Standardizzazione delle Risposte e Centralizzazione degli Errori](biblioteca/docs/task1-standardizzazione-risposte.md)
+* [Task 2 - Containerizzazione Multi-Stage e Isolamento dei Profili](biblioteca/docs/task2-containerizzazione-profili.md)
+* [Task 3 - Monitoraggio Proattivo e Sistemi di Alerting](biblioteca/docs/task3-monitoraggio-alerting.md)
 
 Avvio del progetto
 Locale (profilo dev, logging dettagliato):
