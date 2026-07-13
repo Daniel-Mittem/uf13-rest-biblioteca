@@ -3,6 +3,7 @@
 Webservice REST in Springboot per la gestione di una biblioteca
 
 ## Dependencies
+
 - Spring Web
 - Spring DevTools
 - Spring Data JPA
@@ -13,7 +14,7 @@ Webservice REST in Springboot per la gestione di una biblioteca
 
 ## Swagger UI
 
-Swagger è un tool via browser che permette il testing delle nostre API.  
+Swagger è un tool via browser che permette il testing delle nostre API.
 
 L'interfaccia Swagger è disponibile al seguente indirizzo:
 
@@ -26,7 +27,6 @@ http://localhost:8080/swagger-ui/index.html
 Relazioni tecniche relative alle task svolte per l'esame UF13:
 
 - [Task 2 - Containerizzazione Multi-Stage e Isolamento dei Profili](docs/task2-containerizzazione-profili.md)
-
 
 ## Avvio del progetto
 
