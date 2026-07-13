@@ -25,7 +25,7 @@ services:
       DB_NAME: biblioteca_db
       DB_USER: root
       DB_PASSWORD: root
-      SPRING_PROFILES_ACTIVE: prod
+      SPRING_PROFILES_ACTIVE: prod,dev
     ports:
       - "8080:8080"
     depends_on:
@@ -57,6 +57,7 @@ services:
       - GF_SECURITY_ADMIN_PASSWORD=admin
     volumes:
       - grafana-data:/var/lib/grafana
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning
     depends_on:
       - prometheus
     networks:
