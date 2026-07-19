@@ -23,4 +23,4 @@ http://localhost:8080/swagger-ui/index.html
 
 ## Documentazione
 
-- [Task 1 - Standardizzazione delle Risposte](docs/task1-standardizzazione-risposte.md)
+- [Task 1 - Standardizzazione delle Risposte](biblioteca/docs/task1-standardizzazione-risposte.md)
