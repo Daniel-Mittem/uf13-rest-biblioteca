@@ -25,7 +25,7 @@ http://localhost:8080/swagger-ui/index.html
 
 Relazioni tecniche relative alle task svolte per l'esame UF13:
 
-- [Task 2 - Containerizzazione Multi-Stage e Isolamento dei Profili](docs/task2-containerizzazione-profili.md)
+- [Task 2 - Containerizzazione Multi-Stage e Isolamento dei Profili](biblioteca/docs/task2-containerizzazione-profili.md)
 
 
 ## Avvio del progetto
